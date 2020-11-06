@@ -4,7 +4,7 @@ public class main {
 
         System.out.println(word);
 
-        System.out.println("987654321");
+        System.out.println("9876543210");
 
         System.out.println(word.length());
     }
